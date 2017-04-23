@@ -1,5 +1,5 @@
 $(function () {
-  var shrinkHeader = 800;
+  var shrinkHeader = 700;
   var slideImage = 700;
   $(window).scroll(function () {
     var scroll = getCurrentScroll();

@@ -4,7 +4,7 @@ html {
   margin: 0;
   font: 400 17px 'Montserrat', sans-serif;
   color: #777;
-    font-size: 17px;
+    font-size: 14px;
     font-style: italic;
 }
 html {
@@ -250,7 +250,6 @@ nav a:hover {
 
 .paper-pen {
   float: left;
-  position: absolute;
   left: -600px;
   -webkit-transition: left 2s;
   -moz-transition: left 4s;
@@ -302,10 +301,7 @@ nav a:hover {
   font-size: 17px;
   font-style: italic;
 }
-.testimonials p:hover {
-    font-weight: bold;
-    color:  crimson;
-}
+
 .top-margin {
   margin-top: 30px;
 }
